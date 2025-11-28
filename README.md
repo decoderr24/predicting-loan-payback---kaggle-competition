@@ -22,7 +22,8 @@ The goal of this competition was to predict the probability of a borrower paying
 
 My approach focused on a robust **Ensemble Strategy**, combining diverse Gradient Boosting models with advanced Feature Engineering and Strategic Blending.
 
-[Image of ensemble learning stacking diagram]
+![licensed-image](https://github.com/user-attachments/assets/db647e42-2ef4-407d-8409-af886b860a3a)
+
 
 ### 1\. Feature Engineering ⚙️
 
@@ -102,5 +103,6 @@ The final submission was achieved through a multi-stage blending process:
 ## 🤝 Acknowledgements
 
 Special thanks to the Kaggle community for sharing insights and to the hosts for providing an interesting dataset. The blending strategy was inspired by various public kernels and refined with custom feature engineering.
+
 
 
